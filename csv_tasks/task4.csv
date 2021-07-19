@@ -1,0 +1,25 @@
+MongoDB shell version v4.4.5
+connecting to: mongodb://127.0.0.1:27017/project?compressors=disabled&gssapiServiceName=mongodb
+Implicit session: session { "id" : UUID("e932100a-e9df-4e46-bf6d-e2314070464b") }
+MongoDB server version: 4.4.5
+actor^productions
+Anupam Kher^33
+Shah Rukh Khan^30
+Naseeruddin Shah^27
+Om Puri^27
+Yuki Kaji^26
+Akshay Kumar^26
+Paresh Rawal^25
+Takahiro Sakurai^25
+Amitabh Bachchan^24
+Boman Irani^23
+Ashleigh Ball^22
+John Cleese^22
+Andrea Libman^22
+Kareena Kapoor^19
+Gulshan Grover^18
+Kay Kay Menon^18
+David Attenborough^18
+Tara Strong^18
+Fred Tatasciore^18
+Erin Fitzgerald^18

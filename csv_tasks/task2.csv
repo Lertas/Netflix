@@ -1,0 +1,64 @@
+MongoDB shell version v4.4.5
+connecting to: mongodb://127.0.0.1:27017/project?compressors=disabled&gssapiServiceName=mongodb
+Implicit session: session { "id" : UUID("1b2cc8fb-a61f-414c-b44f-8e34ea7f9574") }
+MongoDB server version: 4.4.5
+country^series
+United States^686
+United Kingdom^223
+Japan^156
+South Korea^116
+Canada^107
+France^70
+Taiwan^65
+India^55
+Australia^50
+Spain^45
+Mexico^45
+China^36
+Germany^25
+Turkey^25
+Colombia^23
+Brazil^18
+Thailand^18
+Italy^15
+Russia^14
+Argentina^14
+Singapore^13
+Ireland^11
+Egypt^9
+Denmark^9
+Israel^9
+New Zealand^8
+Belgium^8
+Sweden^8
+Norway^8
+Malaysia^7
+Lebanon^7
+Netherlands^6
+South Africa^5
+Czech Republic^5
+Poland^5
+Hong Kong^4
+Pakistan^4
+Chile^4
+Greece^3
+Finland^3
+West Germany^2
+Indonesia^2
+Ukraine^2
+Azerbaijan^1
+Saudi Arabia^1
+United Arab Emirates^1
+Syria^1
+Cyprus^1
+Switzerland^1
+Croatia^1
+Malta^1
+Jordan^1
+Cuba^1
+Kuwait^1
+Philippines^1
+Austria^1
+Hungary^1
+Mauritius^1
+Iceland^1
